@@ -1,3 +1,1 @@
 # hoodie-bot
-
-readme fixed
