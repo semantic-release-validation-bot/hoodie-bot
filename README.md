@@ -1,4 +1,2 @@
 # hoodie-bot
-probably the last time
-apparently not :()
-not this time even
+this is a bot to test my app
