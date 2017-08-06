@@ -4,4 +4,4 @@ bot for commit messages
 bottest4
 
 probot test10
-39
+39 4
