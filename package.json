@@ -1,0 +1,19 @@
+{
+  "name": "hoodie-bot",
+  "version": "1.0.0",
+  "description": "readme fixed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sohini-roy/hoodie-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sohini-roy/hoodie-bot/issues"
+  },
+  "homepage": "https://github.com/sohini-roy/hoodie-bot#readme"
+}
